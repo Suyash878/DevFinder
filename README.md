@@ -2,8 +2,6 @@
 
 A Next.js application that leverages the GitHub API and Gemini to automatically categorize and recommend beginner-friendly issues for new contributors.
 
-![Project Logo](https://via.placeholder.com/650x150)
-
 ## 🚀 Features
 
 - **Smart Issue Categorization**: Uses Gemini AI to analyze and categorize issues based on complexity and required skills
