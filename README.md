@@ -1,4 +1,4 @@
-# GitHub Beginner-Friendly Issues Categorizer
+# DevFinder
 
 A Next.js application that leverages the GitHub API and Gemini to automatically categorize and recommend beginner-friendly issues for new contributors.
 
